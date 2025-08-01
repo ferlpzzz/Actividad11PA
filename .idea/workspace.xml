@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0d025a2-9c1f-44e6-a1e2-e7a2385d87b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Actividad11PA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info_vehiculos.py" afterDir="false" />
+    <list default="true" id="c0d025a2-9c1f-44e6-a1e2-e7a2385d87b2" name="Changes" comment="Me quede aqui 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info_vehiculos.py" beforeDir="false" afterPath="$PROJECT_DIR$/info_vehiculos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ferlpzzz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ferlpzzz/Actividad11PA.git",
+    "accountId": "1b343078-da6c-4bc7-84b2-c70de73c03b4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -59,6 +67,28 @@
       <option name="presentableId" value="Default" />
       <updated>1753972612012</updated>
     </task>
+    <task id="LOCAL-00001" summary="Me quede aqui">
+      <option name="closed" value="true" />
+      <created>1753977183064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753977183064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Me quede aqui 2">
+      <option name="closed" value="true" />
+      <created>1753977205982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753977205982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Me quede aqui" />
+    <MESSAGE value="Me quede aqui 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Me quede aqui 2" />
   </component>
 </project>
